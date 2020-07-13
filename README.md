@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! ✋
+
+--
+Telegram: https://tlgg.ru/gkoil
 
 <!--
 **GKoil/GKoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
