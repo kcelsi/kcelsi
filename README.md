@@ -3,8 +3,10 @@ Hi! ✋.
 I'm a Frontend developer based in Moscow.
 
 #### Projects:
-- [Brain-games](https://github.com/GKoil/Brain-games)
+- [RSS reader *in progress*](https://github.com/GKoil/frontend-project-lvl3)
 - [GenDiff](https://github.com/GKoil/GenDiff)
+- [Clock *in progress*](https://github.com/GKoil/clock)
+- [Brain-games](https://github.com/GKoil/Brain-games)
 
 #### Some Layouts: 
 - [La-chatte](https://github.com/GKoil/la-chatte)
