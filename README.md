@@ -9,7 +9,7 @@ I'm a Frontend developer based in Moscow.
 - [Brain-games](https://github.com/GKoil/Brain-games)
 
 #### Some Layouts: 
-- [La-chatte](https://github.com/GKoil/la-chatte)
+- [La-chatte](https://gkoil.github.io/la_chatte/)
 - [Ailita](https://itconstruct.ru/portfolio/cases/ailita.php)
 - [Vital](https://itconstruct.ru/portfolio/cases/vital.php)
 - [Dollipops](https://itconstruct.ru/portfolio/cases/dollipops.php)
