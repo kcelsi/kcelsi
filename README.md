@@ -22,3 +22,6 @@ I'm a Frontend developer based in Moscow.
 <a target='_blank' title='Telegram' href="https://t.me/gkoil">
   <img width="25" src="https://raw.githubusercontent.com/gist/GKoil/f3726ebcbfab7828cc70fa4cfe784721/raw/9f900a78a7d9d98707af08ecd006656520ecb19c/telegram.svg">
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
