@@ -26,9 +26,14 @@ JSON         37 mins         █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 #### Contacts:
+
 <a target='_blank' title='LinkedIn' href="https://www.linkedin.com/in/gkoil/">
-  <img width="25" src="https://raw.githubusercontent.com/gist/GKoil/eacf7d0187f6663b7d17838bdd553db8/raw/b591c5f11ee4b5c9dfcdfbead55877d8eba0b5ba/linkedin.svg">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target='_blank' title='Telegram' href="https://t.me/gkoil">
-  <img width="25" src="https://raw.githubusercontent.com/gist/GKoil/f3726ebcbfab7828cc70fa4cfe784721/raw/9f900a78a7d9d98707af08ecd006656520ecb19c/telegram.svg">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<a target='_blank' title='Gmail' href="mailto: gk.grigorev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
