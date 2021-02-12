@@ -14,7 +14,7 @@ I'm a Frontend developer based in Moscow.
 - [Vital](https://itconstruct.ru/portfolio/cases/vital.php)
 - [Dollipops](https://itconstruct.ru/portfolio/cases/dollipops.php)
 
-#### Stats:
+#### Stats for this week:
 <!--START_SECTION:waka-->
 ```text
 JavaScript   7 hrs 29 mins   ██████████████▓░░░░░░░░░░   58.65 % 
