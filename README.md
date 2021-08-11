@@ -9,12 +9,6 @@ I'm a Frontend developer based in Moscow.
 - [JS Clock *in progress*](https://github.com/GKoil/clock)
 - [JS Brain-games](https://github.com/GKoil/Brain-games)
 
-#### Some Layouts: 
-- [La-chatte](https://gkoil.github.io/la_chatte/)
-- [Ailita](https://itconstruct.ru/portfolio/cases/ailita.php)
-- [Vital](https://itconstruct.ru/portfolio/cases/vital.php)
-- [Dollipops](https://itconstruct.ru/portfolio/cases/dollipops.php)
-
 #### Stats for this week:
 <!--START_SECTION:waka-->
 ```text
