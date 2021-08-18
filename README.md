@@ -12,9 +12,9 @@ I'm a Frontend developer based in Moscow.
 #### Stats for this week:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   23 hrs 2 mins   ███████████████████████░░   91.60 % 
-Other        2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript   20 hrs 27 mins  ██████████████████████▓░░   90.93 % 
+Other        2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 <!--END_SECTION:waka-->
 ---
