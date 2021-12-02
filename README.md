@@ -3,11 +3,8 @@ Hi! ✋.
 I'm a Frontend developer based in Moscow.
 
 #### Projects:
-- [React ToDo list](https://github.com/GKoil/ToDo-React)
 - [JS RSS reader *in progress*](https://github.com/GKoil/frontend-project-lvl3)
 - [JS GenDiff](https://github.com/GKoil/GenDiff)
-- [JS Clock *in progress*](https://github.com/GKoil/clock)
-- [JS Brain-games](https://github.com/GKoil/Brain-games)
 
 #### Stats for this week:
 <!--START_SECTION:waka-->
