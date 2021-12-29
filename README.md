@@ -9,11 +9,11 @@ I'm a Frontend developer based in Moscow.
 #### Stats for this week:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 38 mins   ███████████▓░░░░░░░░░░░░░   47.31 % 
-JSX          5 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.17 % 
-SCSS         4 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-JSON         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-SVG          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JavaScript   7 hrs 15 mins   █████████▓░░░░░░░░░░░░░░░   38.26 % 
+JSX          6 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.17 % 
+SCSS         5 hrs 16 mins   ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+SVG          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 ---
