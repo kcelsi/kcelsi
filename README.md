@@ -1,6 +1,5 @@
 #### About me:
-Hi! ✋.
-I'm a Frontend developer based in Moscow.
+Hi! ✋
 
 #### Projects:
 - [JS RSS reader *in progress*](https://github.com/GKoil/frontend-project-lvl3)
