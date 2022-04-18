@@ -9,8 +9,8 @@ Hi! ✋
 <!--START_SECTION:waka-->
 
 ```text
-HTML         13 hrs 43 mins  ███████████████▓░░░░░░░░░   63.07 %
-Other        3 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+HTML         13 hrs 43 mins  ████████████████▓░░░░░░░░   66.11 %
+Other        2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
 ```
 
 <!--END_SECTION:waka-->
