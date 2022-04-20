@@ -9,8 +9,10 @@ Hi! ✋
 <!--START_SECTION:waka-->
 
 ```text
-HTML         12 hrs 8 mins   ███████████████▒░░░░░░░░░   60.86 %
-Other        2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+HTML         12 hrs 27 mins  █████████████████░░░░░░░░   68.07 %
+SCSS         2 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+TypeScript   1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Other        1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
 ```
 
 <!--END_SECTION:waka-->
