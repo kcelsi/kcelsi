@@ -9,7 +9,7 @@ Hey👋. I work in [g-mate](http://gms.tech) and develop great job search servic
 <!--START_SECTION:waka-->
 
 ```text
-Other    6 hrs           ███████████████████░░░░░░   75.49 %
+Other    5 hrs           █████████████████████████   99.80 %
 ```
 
 <!--END_SECTION:waka-->
