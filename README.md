@@ -1,5 +1,4 @@
 #### About me:
-Hey👋. I work in [g-mate](http://gms.tech) and develop great job search service for IT specialists.
 
 #### Projects:
 - [JS RSS reader *in progress*](https://github.com/GKoil/frontend-project-lvl3)
