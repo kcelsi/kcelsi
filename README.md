@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        17 hrs 50 mins  ██████████████░░░░░░░░░░░   55.34 %
-Vue.js       10 hrs 9 mins   ████████░░░░░░░░░░░░░░░░░   31.53 %
-JavaScript   2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-.env file    1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-TypeScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Vue.js       10 hrs 8 mins   ████████████▓░░░░░░░░░░░░   50.99 %
+Other        6 hrs 35 mins   ████████▒░░░░░░░░░░░░░░░░   33.12 %
+JavaScript   1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+.env file    1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+TypeScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
