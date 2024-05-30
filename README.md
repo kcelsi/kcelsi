@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   11 hrs 30 mins  █████████████████████████   100.00 %
+Other         8 hrs 30 mins   ████████████████████████▓   98.86 %
+textmate      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+TypeScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Vue.js        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
